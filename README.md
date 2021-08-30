@@ -21,11 +21,12 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size
+- View the optimal layout depending on their device's screen size (Desktop - Mobile).
 
 ### Screenshot
 
-https://github.com/Ryoma1512/Stats-preview-card-component-FrontEndMentor/blob/master/img/Screenshot.png
+
+![image](https://user-images.githubusercontent.com/88509496/131384431-00ab8daf-ab1b-4fb0-9b1e-7c23b02bb030.png)
 
 ### Links
 
@@ -44,7 +45,7 @@ https://github.com/Ryoma1512/Stats-preview-card-component-FrontEndMentor/blob/ma
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learn more or less how to do responsive design. I improved my css and flexbox techniques.
 
 ## Author
 
