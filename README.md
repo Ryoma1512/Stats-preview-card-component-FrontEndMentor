@@ -29,9 +29,7 @@ Users should be able to:
 ![image](https://user-images.githubusercontent.com/88509496/131384431-00ab8daf-ab1b-4fb0-9b1e-7c23b02bb030.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://ryoma1512.github.io/Stats-preview-card-component-FrontEndMentor/
 
 ## My process
 
