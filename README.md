@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-[[https://github.com/Ryoma1512/Stats-preview-card-component-FrontEndMentor/blob/master/img/Screenshot.png|alt=screenshot] to take 
+https://github.com/Ryoma1512/Stats-preview-card-component-FrontEndMentor/blob/master/img/Screenshot.png|alt=screenshot] to take 
 
 ### Links
 
