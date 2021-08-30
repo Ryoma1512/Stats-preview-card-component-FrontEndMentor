@@ -3,10 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-/* html{
-    font-size: 100%;
-} */
 body{
     font-size: 15px;
     background-color: hsl(233, 47%, 7%);
@@ -15,7 +11,6 @@ body{
  h1, h2, p{
     color: white;
     font-family: 'Inter', sans-serif;
-    /* font-family: 'Lexend Deca', sans-serif; */
 }
 
 .container{
@@ -23,7 +18,6 @@ body{
     display: flex;
     justify-content: center;
     overflow-x: hidden;
-    /* position: absolute; */
 }
 
 .text-box{
@@ -32,12 +26,9 @@ body{
     align-self: center;
     height: 72%;
     width: 40%;
-    /* height: 445px;
-    width: 540px; */
     background-color: hsl(244, 38%, 16%);
     flex-direction: column;
     border-radius: 10px 0px 0px 10px;
-    /* position: relative; */
 }
 
 .title{
@@ -53,7 +44,6 @@ span{
     display: flex;
     margin: 0px 100px 0px 75px;
     color: #c1bfd5;
-    /* border: 1px solid red; */
     
 }
     
@@ -62,9 +52,7 @@ span{
     align-self: center;
     height: 445px;
     width: 40%;
-    /* width: 540px; */
     background-color: #7c419d;
-    /* position: relative; */
 
 }
 
@@ -102,7 +90,6 @@ span{
     
     body{
         width: 100%;
-        /* width: 375px; */
         margin: 0 auto;
     }  
 
@@ -114,8 +101,6 @@ span{
     .image-box{
         height: 45%;
         width: 85%;
-        /* height: 240px;
-        width: 325px; */
         margin: 90px 25px 0px 25px;
         border-radius: 10px 10px 0px 0px;
     }
@@ -127,8 +112,6 @@ span{
     .text-box{
         height: 100%;
         width: 85%;
-        /* height: 540px;
-        width: 325px; */
         border-radius: 0px 0px 10px 10px;
     }
 
@@ -146,7 +129,6 @@ span{
     .info ul{
         flex-direction: column;
         margin: 0;
-        /* margin: 55px 125px; */
         align-items: center;
         row-gap: 2ch;
     }
@@ -160,9 +142,6 @@ span{
 /*Tablet Design*/
 @media only screen and (min-width:376px) and (max-width:960px)
 {
-    /* html{
-        font-size: 62.5%;
-    } */
     body,
     .container,
     .text-box
@@ -181,13 +160,5 @@ span{
     }
 }
 
-/*Desktop Design*/
-@media only screen and (min-width:961px){
-    /* .image-box,
-    .text-box{
-        margin: 0;
-        width: auto;
-    } */
-    
-}
+
 
